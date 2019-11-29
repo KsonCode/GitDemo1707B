@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         //主分支代码
         System.out.println("主分支log");
 
+        //dev分支代码
+        System.out.println("dev");
 
     }
 }
